@@ -3,7 +3,7 @@ Forex Trading Assistant, Prediction Algorithm
 
 This program analyzes a currency pair then using trends and analytical tools is able to provide trading advice (i.e a good time to buy in or go short into a market). 
 
-For information regarding trading philosophy, techniques used, direction of the program and/or upcoming features, contact Ashton Sidhu at ashton.sidhu1994@gmail.com
+For information regarding trading philosophy, techniques used, direction of the program and/or upcoming features, contact Juan Dieg Gutierrez
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ The files uploaded here are one version older than the most current version whic
 
 1) This program was coded using python 3.
 
-2) The core trading logic and philosophy has been removed from the code (forecastalgoG.py) as it is not code intensive but more intuition. For any questions or inquiries about the trading logic and philosophym contact Ashton Sidhu at ashton.sidhu1994@gmail.com
+2) The core trading logic and philosophy has been removed from the code (forecastalgoG.py) as it is not code intensive but more intuition. For any questions or inquiries about the trading logic and philosophym contact Juan Dieg 
 
 3)The run_algoG.py pings the yahoo site for USD/CAD page for the current price, while the current version uses an api that gets live up to the minute values for more accuracy.
 
